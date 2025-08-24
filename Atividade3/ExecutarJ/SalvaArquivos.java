@@ -1,0 +1,7 @@
+public class SalvaArquivos implements Executar {
+
+    @Override
+    public void executarAcao() {
+        System.out.println("Arquivo salvo com sucesso!");
+    }
+}
